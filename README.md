@@ -1,1 +1,1 @@
-# C-courses
+# C++ courses
